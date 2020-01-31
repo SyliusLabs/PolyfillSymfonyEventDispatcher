@@ -1,0 +1,2 @@
+# PolyfillSymfonyEventDispatcher
+Polyfill Symfony EventDispatcher
